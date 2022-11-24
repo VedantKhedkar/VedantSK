@@ -467,18 +467,18 @@ p {
 		width: 100%;
 		left: 0;
 	}
-	100% {
+	125% {
 		width: 0;
 		left: 100%;
 	}
 }
 @keyframes text_reveal {
-	100% {
+	125% {
 		color: white;
 	}
 }
 @keyframes text_reveal_name {
-	100% {
+	125% {
 		color: crimson;
 		font-weight: 500;
 	}
