@@ -5,7 +5,7 @@
 	box-sizing: border-box;
 }
 .hero{
-	height: 52vh;
+	height: 53vh;
 	width: 125%;
 	background-image: url(key.jpg);
 	background-size: cover;
@@ -66,7 +66,7 @@ nav ul li a:hover{
 }
 .content{
 	position: absolute;
-	top: 40%;
+	top: 35%;
 	left:15%;
 	transform: translateY(-50%);
 }
