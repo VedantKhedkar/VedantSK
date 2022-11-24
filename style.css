@@ -5,7 +5,7 @@
 	box-sizing: border-box;
 }
 .hero{
-	height: 60vh;
+	height: 55vh;
 	width: 125%;
 	background-image: url(key.jpg);
 	background-size: cover;
@@ -24,7 +24,7 @@ nav{
 }
 .logo{
 	color: #CACFD2;
-	font-size: 55px;
+	font-size: 70px;
 	letter-spacing: 1px;
 	cursor: pointer;
 }
@@ -42,6 +42,7 @@ nav ul li a{
 	text-decoration: none;
 	font-weight: bold;
 	text-transform: capitalize;
+	font-size:27px;
 }
 nav ul li a:hover{
 	color: #f9004d;
@@ -145,6 +146,7 @@ h4{
 	font-size: 22px;
 	margin-bottom: 25px;
 	text-transform: capitalize;
+	
 }
 .about-text p{
 	color: #fcfc;
